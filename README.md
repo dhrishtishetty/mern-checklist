@@ -86,7 +86,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-**Live Demo:** https://your-live-demo-link.onrender.com
+**Live Demo:** https://mern-checklist.onrender.com
 
 The application can be deployed using platforms such as **Render**, **Vercel**, or **Railway**, with **MongoDB Atlas** as the database and **Upstash Redis** for cloud caching.
 
