@@ -66,7 +66,7 @@ const HomePage = () => {
           <div className="card-body">
 
             <div className="flex justify-between items-center">
-              <h2 className="card-title text-2xl">
+              <h2 className="card-title text-xl sm:text-2xl font-semibold">
                 Today's Progress
               </h2>
 
