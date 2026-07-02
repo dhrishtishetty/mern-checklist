@@ -92,7 +92,15 @@ The application can be deployed using platforms such as **Render**, **Vercel**, 
 
 ## 📸 Preview
 
-_Add screenshots or GIFs of the application here._
+**Home Page:**
+<img width="1913" height="968" alt="image" src="https://github.com/user-attachments/assets/b95b10b6-2f23-404e-97c6-4ca269406f42" />
+
+**Create Page:**
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/58873e90-9571-4b62-9163-aaeadb9f2ab8" />
+
+**Update Page:**
+<img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/8f9f3d55-704c-4702-a77c-e5ace07bfb9c" />
+
 
 ## 👨‍💻 Author
 
